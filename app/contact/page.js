@@ -83,7 +83,7 @@ const ContactPage = () => {
                   <div>
                     <h3 className="text-lg font-semibold mb-1">Address</h3>
                     <p className="text-gray-600 dark:text-gray-300">
-                      Rogan Gran, Shamli, UttarPradesh, 247777
+                      Jaspur, Uddham Singh Nagar, Uttarakhand, 244712
                     </p>
                   </div>
                 </div>
@@ -97,10 +97,10 @@ const ContactPage = () => {
                   <div>
                     <h3 className="text-lg font-semibold mb-1">Email</h3>
                     <a 
-                      href="mailto:mo.asadali007@gmail.com" 
+                      href="mailto:mukulchauhan64976@gmail.com" 
                       className="text-purple-600 dark:text-purple-400 hover:underline"
                     >
-                      mo.asadali007@gmail.com
+                      mukulchauhan64976@gmail.com
                     </a>
                   </div>
                 </div>
@@ -114,7 +114,7 @@ const ContactPage = () => {
                   <div>
                     <h3 className="text-lg font-semibold mb-1">Phone</h3>
                     <p className="text-gray-600 dark:text-gray-300">
-                      +91-9027171598
+                      +91-7505258856
                     </p>
                   </div>
                 </div>
@@ -124,7 +124,7 @@ const ContactPage = () => {
                 <h3 className="text-lg font-semibold mb-4">Connect with me</h3>
                 <div className="flex space-x-4">
                   <a 
-                    href="https://www.linkedin.com/in/mohd-asad-ali-1a7693257/" 
+                    href="https://www.linkedin.com/in/mukul-kumar-328a5824b" 
                     className="bg-purple-100 dark:bg-purple-900/30 text-purple-500 dark:text-purple-400 p-3 rounded-full hover:bg-purple-200 dark:hover:bg-purple-800/50 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -134,7 +134,7 @@ const ContactPage = () => {
                     </svg>
                   </a>
                   <a 
-                    href="https://www.instagram.com/heyy.asad__/" 
+                    href="https://www.instagram.com/mukulrajput________/" 
                     className="bg-purple-100 dark:bg-purple-900/30 text-purple-500 dark:text-purple-400 p-3 rounded-full hover:bg-purple-200 dark:hover:bg-purple-800/50 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -144,7 +144,7 @@ const ContactPage = () => {
                     </svg>
                   </a>
                   <a 
-                    href="mailto:mo.asadali007@gmail.com" 
+                    href="mailto:mukulchauhan64976@gmail.com" 
                     className="bg-purple-100 dark:bg-purple-900/30 text-purple-500 dark:text-purple-400 p-3 rounded-full hover:bg-purple-200 dark:hover:bg-purple-800/50 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
                   >
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">

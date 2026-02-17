@@ -87,22 +87,22 @@ const Footer = () => {
               <li className="flex items-start">
                 <i className="fas fa-map-marker-alt mt-1 text-purple-500 w-5"></i>
                 <span className="ml-2 text-gray-600 dark:text-gray-300">
-                  Rogan Gran, Shamli, UttarPradesh, 247777
+                  Jaspur, Uddham Singh Nagar, Uttarakhand, 244712
                 </span>
               </li>
               <li className="flex items-center">
                 <i className="fas fa-envelope text-purple-500 w-5"></i>
                 <a
-                  href="mailto:mo.asadali007@gmail.com"
+                  href="mailto:mukulchauhan64976@gmail.com"
                   className="ml-2 text-gray-600 dark:text-gray-300 hover:text-purple-500 dark:hover:text-purple-400 transition-colors"
                 >
-                  mo.asadali007@gmail.com
+                  mukulchauhan64976@gmail.com
                 </a>
               </li>
               <li className="flex items-center">
                 <i className="fas fa-phone-alt text-purple-500 w-5"></i>
                 <span className="ml-2 text-gray-600 dark:text-gray-300">
-                  +91-9027171598
+                  +91-7505258856
                 </span>
               </li>
 
@@ -110,19 +110,19 @@ const Footer = () => {
               <li className="pt-3">
                 <div className="flex space-x-4 mt-1">
                   <a
-                    href="mailto:mo.asadali007@gmail.com"
+                    href="mailto:mukulchauhan64976@gmail.com"
                     className="bg-purple-100 dark:bg-purple-900/30 text-purple-500 dark:text-purple-400 p-2 rounded-full hover:bg-purple-200 dark:hover:bg-purple-800/50 transition-colors transform hover:-translate-y-1 duration-200"
                   >
                     <i className="fas fa-envelope"></i>
                   </a>
                   <a
-                    href="https://www.instagram.com/heyy.asad__/"
+                    href="https://www.instagram.com/mukulrajput________"
                     className="bg-purple-100 dark:bg-purple-900/30 text-purple-500 dark:text-purple-400 p-2 rounded-full hover:bg-purple-200 dark:hover:bg-purple-800/50 transition-colors transform hover:-translate-y-1 duration-200"
                   >
                     <i className="fab fa-instagram"></i>
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/mohd-asad-ali-1a7693257/"
+                    href="https://www.linkedin.com/in/mukul-kumar-328a5824b"
                     className="bg-purple-100 dark:bg-purple-900/30 text-purple-500 dark:text-purple-400 p-2 rounded-full hover:bg-purple-200 dark:hover:bg-purple-800/50 transition-colors transform hover:-translate-y-1 duration-200"
                   >
                     <i className="fab fa-linkedin-in"></i>
