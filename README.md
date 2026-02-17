@@ -131,7 +131,7 @@ ai-assisted-blog/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/asadali-07/AsadBlog.git
+   git clone https://github.com/mukulchau/Blog.git
    cd ai-assisted-blog
    ```
 
@@ -326,8 +326,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Asad Ali**
-- 🐙 GitHub: [@asadali-07](https://github.com/asadali-07)
-- 🚀 Project: [AsadBlog](https://github.com/asadali-07/AsadBlog)
+- 🐙 GitHub: [@asadali-07](https://github.com/mukulchau)
+- 🚀 Project: [AsadBlog](https://github.com/mukulchau/Blog)
 - 🌐 Live Demo: [AI Blog Platform](https://asad-blog.vercel.app)
 
 ---
