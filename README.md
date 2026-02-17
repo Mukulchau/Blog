@@ -326,8 +326,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Asad Ali**
-- 🐙 GitHub: [@asadali-07](https://github.com/mukulchau)
-- 🚀 Project: [AsadBlog](https://github.com/mukulchau/Blog)
+- 🐙 GitHub: [@mukulchau](https://github.com/mukulchau)
+- 🚀 Project: [Blog](https://github.com/mukulchau/Blog)
 - 🌐 Live Demo: [AI Blog Platform](https://asad-blog.vercel.app)
 
 ---
